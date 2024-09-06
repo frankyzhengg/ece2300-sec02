@@ -22,6 +22,5 @@ or(w,in0, in1);
 and(x, in0, in1);
 and(y,w,in2);
 or (out,y,x);
-
 endmodule
 
