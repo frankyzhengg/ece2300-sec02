@@ -14,7 +14,7 @@ module Top();
   logic dut_out;
 
   // Instantiate the design-under-test (DUT) and hook up the ports to the
-  // logic signals we just declared.
+  // logic signals we just declared. (Syntax used to make connections below)
 
   PairTripleDetector dut
   (
